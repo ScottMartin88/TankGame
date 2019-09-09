@@ -1,0 +1,17 @@
+﻿  main.cpp
+c:\users\scott\desktop\olduniwork\courseworktanks\courseworktanks\bullet.h(18): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\scott\desktop\olduniwork\courseworktanks\courseworktanks\main.cpp(238): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+c:\users\scott\desktop\olduniwork\courseworktanks\courseworktanks\main.cpp(323): warning C4244: '=': conversion from 'unsigned long' to 'float', possible loss of data
+c:\users\scott\desktop\olduniwork\courseworktanks\courseworktanks\main.cpp(395): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\scott\desktop\olduniwork\courseworktanks\courseworktanks\main.cpp(402): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\scott\desktop\olduniwork\courseworktanks\courseworktanks\main.cpp(404): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\scott\desktop\olduniwork\courseworktanks\courseworktanks\main.cpp(411): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\scott\desktop\olduniwork\courseworktanks\courseworktanks\main.cpp(413): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\scott\desktop\olduniwork\courseworktanks\courseworktanks\main.cpp(421): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\scott\desktop\olduniwork\courseworktanks\courseworktanks\main.cpp(453): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\scott\desktop\olduniwork\courseworktanks\courseworktanks\main.cpp(463): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\scott\desktop\olduniwork\courseworktanks\courseworktanks\main.cpp(531): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\scott\desktop\olduniwork\courseworktanks\courseworktanks\main.cpp(541): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+c:\users\scott\desktop\olduniwork\courseworktanks\courseworktanks\main.cpp(551): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\scott\desktop\olduniwork\courseworktanks\courseworktanks\main.cpp(561): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  CourseWorkTanks.vcxproj -> C:\Users\Scott\Desktop\OldUniWork\CourseWorkTanks\Debug\CourseWorkTanks.exe
